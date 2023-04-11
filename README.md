@@ -12,3 +12,6 @@
 ![image](https://user-images.githubusercontent.com/130052563/231163050-4b4d7faf-3b8e-444e-a3e5-21859b204d5e.png)
 
  ![image](https://user-images.githubusercontent.com/130052563/231163763-b4de8733-f100-42a2-b31b-64d387c6cebc.png)
+
+ # задание3
+ ![image](https://user-images.githubusercontent.com/130052563/231164527-75e8151f-f32e-466e-9b4e-3e4b6e01e110.png)
