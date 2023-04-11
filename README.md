@@ -5,4 +5,4 @@
 </div>
  
  <h2 align = "center">Кто такой Мунбин?</h2>
- 
+Мунбин (кор. 문빈; род. 26 января 1998 года) — южнокорейский певец, танцор, актёр и модель. Является участником бойбенда [Astro](https://ru.wikipedia.org/wiki/Astro) и его саб-юнита Moonbin & [Sanha](https://en.wikipedia.org/wiki/Yoon_San-ha)
