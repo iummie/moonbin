@@ -19,6 +19,8 @@
  # задание4(дёмушкина)
  <h4 align = "center">Ссылка на сайт</h4>
 ![image](https://user-images.githubusercontent.com/130052563/231469356-10d28487-a0aa-438f-9b6c-211189bd7219.png)
- ![image](https://user-images.githubusercontent.com/130052563/231469444-c216fd08-cd07-42d3-a644-f19f65e225ad.png)
+
+![image](https://user-images.githubusercontent.com/130052563/231469444-c216fd08-cd07-42d3-a644-f19f65e225ad.png)
+ 
 ![image](https://user-images.githubusercontent.com/130052563/231469490-4ce71c25-9c8e-4d5a-9db3-3e16b13d7ebf.png)
 
