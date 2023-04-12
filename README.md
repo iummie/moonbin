@@ -18,4 +18,4 @@
 
  # задание4(дёмушкина)
  <h4 align = "center">Ссылка на сайт</h4>
-![image](https://user-images.githubusercontent.com/130052563/231463791-affaa2f9-7967-4776-a21f-c7320f3e13cf.png)
+file:///C:/Users/user.UIT/Desktop/moonbin/sanha.html
